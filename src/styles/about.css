@@ -1,0 +1,19 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}

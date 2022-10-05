@@ -1,0 +1,23 @@
+.project {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    padding: 15px;
+}
+
+.project a {
+    text-decoration: none;
+}
+
+.project-image {
+    height: 450px;
+    border: 1px solid black;
+    border-radius: 2px;
+    width: 475px;
+}
+
+@media only screen and (max-width: 650px) {
+    .project-image {
+        display: none;
+    }
+}
