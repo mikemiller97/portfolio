@@ -2,6 +2,7 @@ import React from "react"
 import Project from "./Project"
 import "../styles/projects.css"
 
+// A list of all individual projects to display on the website
 export default function Projects() {
     return (
         <div className="projects">
