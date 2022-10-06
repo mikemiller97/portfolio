@@ -16,6 +16,8 @@ export default function About() {
                     <li>Java</li>
                     <li>C++</li>
                     <li>Python</li>
+                    <li>Git</li>
+                    <li>HTML/CSS</li>
                 </ul>
             </div>
         </div>
